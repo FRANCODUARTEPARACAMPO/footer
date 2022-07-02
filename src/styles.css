@@ -1,0 +1,79 @@
+.App {
+   contactenos 
+    
+    }
+
+.footer-dark{
+  background-color:gray
+}
+  
+ .lista{
+    margin-auto;
+    color: rgb(185, 27, 27);
+  }
+  .panel-2_listas {
+    display: flex;
+    flex-direction: row;
+  }
+
+  
+  h1 {
+    font: size 60px;
+  }
+
+  .enviar {
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: rgb(27, 27, 171);
+    cursor: pointer;
+  }
+  .enviar:hover {
+    background-color: white;
+    color: blue;
+  }
+  
+  
+  
+  .section-two {
+    /* width: 100%; */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    /* padding: 40px; */
+    /* background-image: url("https://fondosmil.com/fondo/7691.jpg");
+    background-repeat: no-repeat;
+    margin: 40px; */
+  }
+  
+  .white {
+    color: white;
+  }
+  
+  h4 {
+    border: 5px;
+    color: white;
+  }
+  .form_input {
+    width: 300px;
+    height: 30px;
+  }
+  #contact_form {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    
+}
+
+.copyright{
+  background-color: white;
+  color: blue;
+  max-width: 300px;
+  align-content:center;
+  
+}
